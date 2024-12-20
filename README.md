@@ -63,8 +63,10 @@
 <details>
   <summary>Мотивационный профиль</summary>
   
-<div align="center"> <img src="https://ru.paste.pics/52f4199b05847821247e5a5cfe77ab4e" width="500"/>
-</div>
+<p align="center">
+  <img src="https://github.com/Graduos/Test_PowerBank/blob/Project-Aston/.idea/%D0%BC%D0%BE%D1%82%D0%B8%D0%B2%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C.png?raw=true" alt="ImageMotiv"/>
+</p>
+
 
 <details>
   <summary>Значения типов</summary>
