@@ -63,8 +63,7 @@
 <details>
   <summary>Мотивационный профиль</summary>
   
-<div align="center">
-  <img src="(https://drive.google.com/file/d/1oo3cjPWhogGmffJ4wW0n-WWNA5Tm0doi/view?usp=drive_link)" alt="Мотивационный профиль" />
+<div align="center"> <img src="https://ru.paste.pics/52f4199b05847821247e5a5cfe77ab4e" width="500"/>
 </div>
 
 <details>
