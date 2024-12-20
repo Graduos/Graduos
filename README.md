@@ -99,4 +99,11 @@
 
 </details>
 </details>
-
+<details> 
+ <summary>Сертификаты</summary>
+  <details> 
+  <summary>Stepik Certificate</summary>
+ <p align="center">
+  <img src="https://github.com/Graduos/Test_PowerBank/blob/Project-Aston/.idea/stepik-certificate-118842-9bb4bee-1.png" alt="ImageMotiv"/>
+</p>
+  </details>
