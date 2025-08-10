@@ -135,7 +135,7 @@
   </details>
     </details>
 <details> 
- <summary> Програмирование </summary>
+ <summary> Личные проекты </summary>
 <details> 
  <summary> JavaScript </summary>
 </details>
@@ -144,5 +144,8 @@
 </details>
 <details> 
  <summary> 1С:Enterprise </summary>
+ <details>
+  <summary> Запрос у пользователя ввод чисел и вывод их суммы </summary>
+  <p align="center"> https://github.com/Graduos/Test_PowerBank/blob/Project-Aston/.idea/1С%3AСумм </p>
 </details>
 </details>
