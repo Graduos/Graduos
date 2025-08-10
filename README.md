@@ -133,4 +133,15 @@
   <img src="https://github.com/Graduos/Test_PowerBank/blob/Project-Aston/.idea/stepik-certificate-118842-9bb4bee-1.png" alt="ImageMotiv"/>
 </p>
   </details>
-
+<details> 
+ <summary> Програмирование </summary>
+<details> 
+ <summary> JavaScript </summary>
+</details>
+<details> 
+ <summary> Java </summary>
+</details>
+<details> 
+ <summary> 1С:Enterprise </summary>
+</details>
+</details>
