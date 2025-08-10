@@ -36,18 +36,6 @@
 Я с нетерпением жду возможности применить свои навыки на практике и внести свой вклад в успешные проекты в команде единомышленников 🤝!
  </details> 
 
-<div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100"/>
-</div>
-
-## 🔗 Ссылки
-[![VK](https://img.icons8.com/?size=50&id=13977&format=png&color=000000)](https://vk.com/dan_rammstein/) 
-[![Telegramm](https://img.icons8.com/?size=50&id=oWiuH0jFiU0R&format=png&color=000000)](https://t.me/g_radus/)
-
-<div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100"/>
-</div>
-
 ## 🛠 Навыки и образование
 
 <details> 
@@ -149,3 +137,15 @@
   <p align="center"> https://github.com/Graduos/Test_PowerBank/blob/Project-Aston/.idea/1С%3AСумм </p>
 </details>
 </details>
+</details>
+<div id="header" align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100"/>
+</div>
+
+## 🔗 Ссылки
+[![VK](https://img.icons8.com/?size=50&id=13977&format=png&color=000000)](https://vk.com/dan_rammstein/) 
+[![Telegramm](https://img.icons8.com/?size=50&id=oWiuH0jFiU0R&format=png&color=000000)](https://t.me/g_radus/)
+
+<div id="header" align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100"/>
+</div>
